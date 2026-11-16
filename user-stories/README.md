@@ -102,10 +102,11 @@ Think through the player’s experience. These are prompts to help you think, bu
 - Making a move.
 - Seeing the result of a move.
 - Tracking progress.
-- Handling an invalid or repeated action.
 - Winning.
 - Losing or drawing, where relevant.
 - Playing again.
+- 
+<!-- - Handling an invalid or repeated action. -->
 
 
 <!-- ## Put the important work first
