@@ -36,7 +36,19 @@ For this project, it means:
 
 > The smallest playable version of your game that meets all the project requirements.
 
-For a memory matching game:
+For Tic-Tac-Toe, our **MVP** is the smallest complete version that allows two people to play a full game.
+
+| Needed for the MVP | Could come later |
+| ------------------ | ---------------- |
+| Instructions explaining the rules | A choice of visual themes |
+| A board with nine squares | Custom player names |
+| Two players taking turns as X and O | Playing against the computer |
+| Preventing moves in occupied squares | Sound effects |
+| Detecting a win or draw | Animated celebrations |
+| Displaying the result and stopping further moves | A scoreboard that tracks several rounds |
+| A way to play again | Saving results after closing the browser |
+
+<!-- For a memory matching game:
 
 | Needed for the MVP | Could come later |
 | ------------------ | ---------------- |
@@ -44,7 +56,7 @@ For a memory matching game:
 | Cards the player can select | Animated celebrations |
 | Matching and non-matching behavior | Sound effects |
 | The required win and lose conditions | Additional difficulty levels |
-| Clear messages showing the result | A saved high-score history |
+| Clear messages showing the result | A saved high-score history | -->
 
 Your MVP must still include everything required for your chosen game.
 
