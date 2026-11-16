@@ -9,18 +9,6 @@
 
 A **user story** describes a feature from the user’s point of view.
 
-Use this pattern:
-
-```text
-As a [type of user],
-I want to [do something],
-so that [reason or benefit].
-```
-
-For our games, most stories will begin with **“As a player…”**
-
-## Build one story together
-
 Imagine we are planning a memory matching game.
 
 The player needs to understand how to play. We can describe that need like this:
@@ -31,13 +19,25 @@ I want to read the game instructions,
 so that I understand how to win.
 ```
 
+## Build one story together
+
+For our games, most stories will begin with **“As a player…”**
+
+Use this pattern:
+
+```text
+As a [type of user],
+I want to [do something],
+so that [reason or benefit].
+```
+
 Notice the three parts:
 
-| Part | Example |
-| ---- | ------- |
-| Who needs the feature | A player |
-| What they need | Read the instructions |
-| Why they need it | Understand how to win |
+| Pattern | Part | Example |
+| ------- | ---- | ------- |
+| [type of user] | Who needs the feature | A player |
+| [do something] | What they need | Read the instructions |
+| [reason or benefit] | Why they need it | Understand how to win |
 
 Two more examples:
 
@@ -60,6 +60,23 @@ so that I know how close I am to running out.
 Separate it into smaller player needs, such as selecting a card, seeing a match, or viewing the final result.
 
 Technical work such as **“create an array”** may help you build a feature. Your user story should explain what that work allows the **player** to do.
+
+For example, in Tic-Tac-Toe, we might **create an array to store the marks placed on the board**.
+
+“Create an array” describes the coding work. The player’s need is to see their move appear on the board.
+
+Our **user story** could be:
+
+> As a player, I want to select an empty square and see my mark appear, so that I can make my move.
+
+To build that feature, we might need to:
+
+- Create an array to store the board’s marks.
+- Listen for a click on a square.
+- Store the player’s mark in the array.
+- Display that mark in the square.
+
+The **story describes what the player can do**. The **technical tasks describe how we build it**.
 
 ## Add your stories to the board
 
@@ -92,7 +109,10 @@ These are prompts to help you think. Adapt them to your game.
 
 > 💡 Ten stories do not mean ten large features. Small actions and useful feedback can each become a story.
 
-## Put the important work first
+Keep required features **even if they seem difficult.** Ask an instructor for help making them manageable.
+
+
+<!-- ## Put the important work first
 
 Compare your stories with the project requirements.
 
@@ -103,6 +123,6 @@ For example:
 ```text
 MVP: As a player, I want to read the game instructions,
 so that I understand how to win.
-```
+``` -->
 
-Keep required features in your MVP even if they seem difficult. Ask an instructor for help making them manageable.
+<!-- Keep required features in your MVP even if they seem difficult. Ask an instructor for help making them manageable. -->

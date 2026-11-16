@@ -32,9 +32,7 @@ For this individual project, we will borrow a few of these ideas:
 
 **MVP** means **minimum viable product**.
 
-For this project, it means:
-
-> The smallest playable version of your game that meets all the project requirements.
+> 💡 A small game that works is a useful starting point. You can improve it once its main features work.
 
 For Tic-Tac-Toe, our **MVP** is the smallest complete version that allows two people to play a full game.
 
@@ -48,6 +46,10 @@ For Tic-Tac-Toe, our **MVP** is the smallest complete version that allows two pe
 | Displaying the result and stopping further moves | A scoreboard that tracks several rounds |
 | A way to play again | Saving results after closing the browser |
 
+For this project, it means:
+
+> The smallest playable version of your game that meets all the project requirements.
+
 <!-- For a memory matching game:
 
 | Needed for the MVP | Could come later |
@@ -59,5 +61,3 @@ For Tic-Tac-Toe, our **MVP** is the smallest complete version that allows two pe
 | Clear messages showing the result | A saved high-score history | -->
 
 Your MVP must still include everything required for your chosen game.
-
-> 💡 A small game that works is a useful starting point. You can improve it once its main features work.
