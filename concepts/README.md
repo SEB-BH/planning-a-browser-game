@@ -34,7 +34,17 @@ For this individual project, we will borrow a few of these ideas:
 
 > 💡 A small game that works is a useful starting point. You can improve it once its main features work.
 
-For Tic-Tac-Toe, our **MVP** is the smallest complete version that allows two people to play a full game.
+For a memory matching game:
+
+| Needed for the MVP | Could come later |
+| ------------------ | ---------------- |
+| Instructions explaining the rules | Several visual themes |
+| Cards the player can select | Animated celebrations |
+| Matching and non-matching behavior | Sound effects |
+| The required win and lose conditions | Additional difficulty levels |
+| Clear messages showing the result | A saved high-score history |
+
+<!-- For Tic-Tac-Toe, our **MVP** is the smallest complete version that allows two people to play a full game.
 
 | Needed for the MVP | Could come later |
 | ------------------ | ---------------- |
@@ -44,20 +54,10 @@ For Tic-Tac-Toe, our **MVP** is the smallest complete version that allows two pe
 | Preventing moves in occupied squares | Sound effects |
 | Detecting a win or draw | Animated celebrations |
 | Displaying the result and stopping further moves | A scoreboard that tracks several rounds |
-| A way to play again | Saving results after closing the browser |
+| A way to play again | Saving results after closing the browser | -->
 
 For this project, it means:
 
 > The smallest playable version of your game that meets all the project requirements.
-
-<!-- For a memory matching game:
-
-| Needed for the MVP | Could come later |
-| ------------------ | ---------------- |
-| Instructions explaining the rules | Several visual themes |
-| Cards the player can select | Animated celebrations |
-| Matching and non-matching behavior | Sound effects |
-| The required win and lose conditions | Additional difficulty levels |
-| Clear messages showing the result | A saved high-score history | -->
 
 Your MVP must still include everything required for your chosen game.
